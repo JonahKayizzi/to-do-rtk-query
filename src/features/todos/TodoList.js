@@ -7,7 +7,6 @@ import {
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faTrash, faUpload } from '@fortawesome/free-solid-svg-icons';
 import { useState } from 'react';
-import { todo } from 'node:test';
 
 const TodoList = () => {
   const [newTodo, setNewTodo] = useState('');
