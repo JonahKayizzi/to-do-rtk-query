@@ -1,0 +1,82 @@
+{
+    "todos":[
+        {
+            "userId": 1,
+            "id": 1,
+            "title": "Go to school",
+            "completed": true
+        },
+        {
+            "userId": 1,
+            "id": 2,
+            "title": "Attend Interview",
+            "completed": false
+        },
+        {
+            "userId": 1,
+            "id": 3,
+            "title": "Complete assignment",
+            "completed": false
+        },
+        {
+            "userId": 1,
+            "id": 4,
+            "title": "Shop some groceries",
+            "completed": true
+        },
+        {
+            "userId": 1,
+            "id": 5,
+            "title": "Tuesday workout",
+            "completed": false
+        },
+        {
+            "userId": 1,
+            "id": 6,
+            "title": "Read a chapter from the book",
+            "completed": false
+        },
+        {
+            "userId": 1,
+            "id": 7,
+            "title": "Laundry",
+            "completed": false
+        },
+        {
+            "userId": 1,
+            "id": 8,
+            "title": "House clean up",
+            "completed": true
+        },
+        {
+            "userId": 1,
+            "id": 9,
+            "title": "Driving test",
+            "completed": false
+        },
+        {
+            "userId": 1,
+            "id": 10,
+            "title": "Exam preparation",
+            "completed": true
+        },
+        {
+            "userId": 1,
+            "id": 11,
+            "title": "Go to the gym",
+            "completed": true
+        },
+        {
+            "userId": 1,
+            "id": 12,
+            "title": "Computer repair",
+            "completed": true
+        },
+        {
+            "userId": 1,
+            "id": 13,
+            "title": "Go to the doctor",
+            "completed": false
+        }
+    ]
+}
