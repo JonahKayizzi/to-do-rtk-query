@@ -14,6 +14,13 @@ export const apiSplice = createApi({
         body: todo,
       }),
     }),
+    updateTodo: builder.mutation({
+      query: (todo) => ({
+        url: `/todos/${todo.id}`,
+        method: 'PATCH',
+        body: todo,
+      }),
+    }),
   }),
 });
 
