@@ -21,6 +21,13 @@ export const apiSplice = createApi({
         body: todo,
       }),
     }),
+    deleteTodo: builder.mutation({
+      query: (id) => ({
+        url: `/todos/${id}`,
+        method: 'DELETE',
+        body: id,
+      }),
+    }),
   }),
 });
 
